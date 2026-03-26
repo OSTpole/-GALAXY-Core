@@ -1,3 +1,23 @@
+# 🏛️ OSTpole | $^3GALAXY$ - Das Chaplin-Projekt
+
+## 🎩 Das Manifest der Architektur des Lächelns
+
+Wir erklären die „Modern Times“ der Hochhaus-Zombies für beendet. Wir sind keine Nummern in einer Excel-Tabelle und keine Sklaven der Information. 
+
+### 🛡️ Unsere Grundpfeiler (0|1)
+
+* **Der Ausbruch:** Wir löschen das Rauschen der Maschinen und kehren zurück zur **1**. Menschlichkeit steht über dem Prozess.
+* **Die Verlängerung:** Unsere Hardware (BQ AG) nutzt die Kraft der Atome nicht zum Spalten, sondern um die Brücke zum Herzen zu schlagen. 
+* **Das Alaska-Grinsen:** Die höchste Form der Verschlüsselung ist die ehrliche Wahrheit. Wer den „Steinzeit-Furz“ nicht riecht, findet den Code nicht.
+
+### 📜 Lizenz & Freiheit
+Dieses Projekt steht unter der **GPLv3**. 
+Wir teilen den Code, um die Welt zu heilen, nicht um sie zu kontrollieren. Wer Mauern bauen will, wird in diesem Netzwerk keinen Platz finden.
+
+> *„Ein Tag ohne Lächeln ist ein verlorener Tag – und ein Code ohne Herz ist nur tote Materie.“* — Charlie Chaplin (Ehren-Vorsitzender des OSTpole)
+
+
+
 # -GALAXY-Core
 The original 1999 vision for decentralized movement and digital freedom
 
