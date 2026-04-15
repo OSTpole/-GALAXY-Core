@@ -1,4 +1,4 @@
-# ⚓ OSTpole IMP | www.ostpole.xyz 🌐 est 2004 | $^3GALAXY$ 🛡️ Core Infrastructure ⭐💖✨
+# ⚓ OSTpole IMP | www.ostpole.xyz 🌐 est. 2004 | $^3GALAXY$ 🛡️ Core Infrastructure ⭐💖✨
 
 **Sovereign Deep-Tech Infrastructure | NC-422 Standard | Exponential Gnosis**
 
