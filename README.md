@@ -42,6 +42,13 @@ Unsere proprietäre Engine verschmilzt mechanische Präzision mit digitaler Souv
 - **AMEL (Mechanical Entropy):** Physische Uhrwerke zur Generierung unknackbarer Krypto-Keys.
 - **BSUG (Bat-Sensing Bionic):** Ultraschall-Echolot zur autonomen, GPS-unabhängigen Navigation.
 
+## 📂 Project Ecosystem
+
+- [Project A: NC1420 Core Engine](https://github.com/OSTpole/NC1420-Core-Engine) - Hardware & Mesh Logic
+- [Project B: 422-NFD Protocol](https://github.com/OSTpole/422-NFD-Protocol) - Financial & Gnosis Exchange
+- [Project C: Sovereign Identity Layer](https://github.com/OSTpole/Sovereign-Identity-Layer) - Identity & Samsung Safe
+  
+
 ## 🛡️ Compliance & Legal
 Dieses Projekt operiert unter strikter Einhaltung der höchsten juristischen Gnosis:
 - **BGH-Konformität:** Validiert nach dem Grundsatzurteil **BGH 4 StR 422/17**.
@@ -75,7 +82,7 @@ Wir erklären die „Modern Times“ der Hochhaus-Zombies für beendet. Wir sind
 Dieses Projekt steht unter der **GPLv3**. 
 Wir teilen den Code, um die Welt zu heilen, nicht um sie zu kontrollieren. Wer Mauern bauen will, wird in diesem Netzwerk keinen Platz finden.
 
-> *„Ein Tag ohne Lächeln ist ein verlorener Tag – und ein Code ohne Herz ist nur tote Materie.“* — Charlie Chaplin (Ehren-Vorsitzender des OSTpole)
+> *„Ein Tag ohne Lächeln ist ein verlorener Tag – und ein Code ohne Herz ist nur tote Materie.“* — Charlie Chaplin (Ehren-Vorsitzender des OSTpole IMP)
 
 
 
