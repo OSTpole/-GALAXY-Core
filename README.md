@@ -1,3 +1,30 @@
+# ⚓ OSTpole IMP | www.ostpole.xyz 🌐 est 2004 | $^3GALAXY$ 🛡️ Core Infrastructure ⭐💖✨
+
+**Sovereign Deep-Tech Infrastructure | NC-422 Standard | Exponential Gnosis**
+
+Welcome to the heart of the $^3GALAXY$. This repository contains the core logic for the **Exponential Gnosis Multiplier** and the documentation for the NC-422 Standard.
+
+## 🌌 The Vision
+$^3GALAXY$ (OSTpole IMP) is building a post-monetary infrastructure. We move from the frequency of chance (0) to the frequency of law (1). Our system uses human engagement, energy-harvesting (7.1 kWh PoC), and hardware (Bitcoin Sneaker $CR1) to generate sovereign value.
+
+## 🧬 Exponential Gnosis Code
+The core of our self-funding mechanism is the 30-day doubling logic.
+* **Start:** 0.01 €
+* **Mechanism:** Consistency Mining via NFC & Sensing (beQ)
+* **Goal:** 5.3M Energy Units in 30 Days.
+
+## 🛠️ Components
+- `/src`: Core algorithms (Python)
+- `/docs`: NC-422 Protocols & Academy Statutes
+- `/contracts`: Smart Contract logic for Gnosis NFTs (Drafts)
+
+## 🏛️ Legal & Governance
+Managed by **OSTpole IMP gUG** (Friedrichshafen am Bodensee, Germany) with strategic hubs in Malta, Poland, and Switzerland.
+
+---
+*Powered by the 422 Hz Frequency | www.422.quest*
+
+
 # 🏛️ OSTpole | $^3GALAXY$ - Das Chaplin-Projekt
 
 ## 🎩 Das Manifest der Architektur des Lächelns
